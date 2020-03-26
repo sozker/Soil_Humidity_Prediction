@@ -11,3 +11,5 @@ The objective of this Zindi competition is to create a machine learning model ca
 This resulting model will enable farmers to anticipate water needs and prepare their irrigation schedules.
 
 This competition is sponsored by Wazihub and Microsoft.
+
+To see the competition on Zindi.com please visit: https://zindi.africa/competitions/wazihub-soil-moisture-prediction-challenge
