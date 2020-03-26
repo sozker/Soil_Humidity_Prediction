@@ -1,6 +1,6 @@
 # Wazihub Soil Moisture Prediction Challenge
 
-## Predict soil humidity using sensor data from low-cost DIY Internet of Things in Senegal
+### Predict soil humidity using sensor data from low-cost DIY Internet of Things in Senegal
 
 In the face of climate change, the agricultural sector in Africa needs to adapt its practices. Being able to accurately measure and predict soil humidity in their fields will allow farmers to prepare their irrigation schedules optimally and efficiently.
 
